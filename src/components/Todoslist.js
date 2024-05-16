@@ -43,7 +43,8 @@ const Todoslist = ({todos, setTodos, setEditTodo}) => {
                 </button>
             </div>
         </li>
-        ))}
+        ))
+        }
     </div>
   );
 };
